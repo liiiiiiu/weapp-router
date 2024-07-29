@@ -1,6 +1,6 @@
 {
   "name": "weapp-route",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🌞 微信小程序“授权”封装",
   "scripts": {
     "build": "vite build && tsc -p tsconfig.json"
@@ -34,7 +34,7 @@
   "keywords": [
     "微信小程序",
     "weapp",
-    "authorize"
+    "路由"
   ],
   "author": "liujiachang",
   "license": "MIT",
