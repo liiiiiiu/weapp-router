@@ -1,7 +1,7 @@
 {
   "name": "weapp-route",
-  "version": "1.0.1",
-  "description": "🌞 微信小程序“授权”封装",
+  "version": "1.0.2",
+  "description": "🌞 微信小程序“路由”封装",
   "scripts": {
     "build": "vite build && tsc -p tsconfig.json"
   },
